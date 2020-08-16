@@ -1,0 +1,15 @@
+.card {
+    box-shadow: 0 4px 8px 0;
+    transition: 0.3s;
+    width: 50%;
+    margin: 5px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0;
+  }
+  
+  .detailContainer {
+    padding: 12px 16px;
+    background-color: #233353;
+  }
